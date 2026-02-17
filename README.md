@@ -2,7 +2,7 @@
 
 A minimal, private bookmark manager built with Next.js 14 (App Router), Supabase (Auth + Database + Realtime), and Tailwind CSS.
 
-**Live URL:** smart-bookmark-app-lime-tau.vercel.app
+**Live URL:** (https://smart-bookmark-app-lime-tau.vercel.app)
 
 ---
 
